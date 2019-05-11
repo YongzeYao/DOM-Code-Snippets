@@ -1,0 +1,17 @@
+{
+  "getElementById": {
+    "prefix": "gid",
+    "body": "const ${1:varName} = document.getElementById('${2:elementId}');${0}",
+    "description": "Gets the element using document.getElementById"
+  },
+  "querySelector": {
+    "prefix": "dqs",
+    "body": "const ${1:varName} = document.querySelector('${2:cssSelector}');${0}",
+    "description": "Gets the element using document.querySelector"
+  },
+  "querySelectorAll": {
+    "prefix": "qsa",
+    "body": "const ${1:varName} = document.querySelectorAll('${2:elementId}');${0}",
+    "description": "Gets the elements using document.querySelectorAll"
+  }
+}

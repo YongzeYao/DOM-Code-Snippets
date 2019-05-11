@@ -2,9 +2,14 @@
   "name": "dom-code-snippets",
   "displayName": "DOM Code Snippets",
   "description": "Code Snippets for getting DOM elements.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.33.0"
+  },
+  "publisher": "yongzeyao",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YongzeYao/DOM-Code-Snippets"
   },
   "icon": "images/javascript.png",
   "categories": [

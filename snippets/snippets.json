@@ -10,7 +10,7 @@
     "description": "Gets the element using document.querySelector"
   },
   "querySelectorAll": {
-    "prefix": "qsa",
+    "prefix": "dqa",
     "body": "const ${1:varName} = document.querySelectorAll('${2:elementId}');${0}",
     "description": "Gets the elements using document.querySelectorAll"
   }

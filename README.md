@@ -34,7 +34,7 @@ Below is a list of all snippets. The **→** means the `TAB` key.
 | ------: | ---------------------------------------------------- |
 |  `gid→` | `const var = document.getElementById('id')`          |
 |  `dqs→` | `const var = document.querySelector('selector');`    |
-|  `qsa→` | `const var = document.querySelectorAll('selector');` |
+|  `dqa→` | `const var = document.querySelectorAll('selector');` |
 
 ---
 

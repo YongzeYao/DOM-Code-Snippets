@@ -2,7 +2,7 @@
   "name": "dom-code-snippets",
   "displayName": "DOM Code Snippets",
   "description": "Code Snippets for getting DOM elements.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "0.10.x"
   },

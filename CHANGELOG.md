@@ -5,3 +5,7 @@ All notable changes to the "dom-code-snippets" extension will be documented in t
 ## [1.0.0]
 
 - Initial release
+
+## [1.0.1]
+
+- Updated required VSCode's minimum version

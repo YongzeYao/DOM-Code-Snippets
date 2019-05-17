@@ -4,7 +4,7 @@
   "description": "Code Snippets for getting DOM elements.",
   "version": "1.0.0",
   "engines": {
-    "vscode": "^1.33.0"
+    "vscode": "0.10.x"
   },
   "publisher": "yongzeyao",
   "repository": {

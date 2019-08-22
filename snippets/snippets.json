@@ -13,5 +13,10 @@
     "prefix": "dqa",
     "body": "const ${1:varName} = document.querySelectorAll('${2:elementId}');${0}",
     "description": "Gets the elements using document.querySelectorAll"
+  },
+  "createElement": {
+    "prefix": "dce",
+    "body": "const ${1:varName} = document.createElement('${2:elementName}');${0}",
+    "description": "Creates an element using document.createElement"
   }
 }

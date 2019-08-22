@@ -1,8 +1,8 @@
 {
   "name": "dom-code-snippets",
   "displayName": "DOM Code Snippets",
-  "description": "Code Snippets for getting DOM elements.",
-  "version": "1.0.1",
+  "description": "Code Snippets for getting / creating DOM elements.",
+  "version": "1.0.2",
   "engines": {
     "vscode": "0.10.x"
   },

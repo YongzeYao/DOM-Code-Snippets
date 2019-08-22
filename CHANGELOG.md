@@ -9,3 +9,7 @@ All notable changes to the "dom-code-snippets" extension will be documented in t
 ## [1.0.1]
 
 - Updated required VSCode's minimum version
+
+## [1.0.2]
+
+- Added **dce** for document.createElement

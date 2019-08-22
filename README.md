@@ -2,7 +2,7 @@
 
 ## Features
 
-This extension contains a set of code snippets for getting DOM elements.
+This extension contains a set of code snippets for getting / creating DOM elements.
 
 ---
 
@@ -35,6 +35,7 @@ Below is a list of all snippets. The **→** means the `TAB` key.
 |  `gid→` | `const var = document.getElementById('id')`          |
 |  `dqs→` | `const var = document.querySelector('selector');`    |
 |  `dqa→` | `const var = document.querySelectorAll('selector');` |
+|  `dce→` | `const var = document.createElement('element');`     |
 
 ---
 
@@ -42,4 +43,4 @@ Below is a list of all snippets. The **→** means the `TAB` key.
 
 As soon as I find myself needing a new snippet, I will add it to this extension.
 
-Also, any suggestions is welcomed!
+Also, any suggestion is welcomed!

@@ -36,6 +36,7 @@ Below is a list of all snippets. The **→** means the `TAB` key.
 |  `dqs→` | `const var = document.querySelector('selector');`    |
 |  `dqa→` | `const var = document.querySelectorAll('selector');` |
 |  `dce→` | `const var = document.createElement('element');`     |
+|  `cdf→` | `const var = document.createDocumentFragment();`     |
 
 ---
 

@@ -18,5 +18,10 @@
     "prefix": "dce",
     "body": "const ${1:varName} = document.createElement('${2:elementName}');${0}",
     "description": "Creates an element using document.createElement"
+  },
+  "createDocumentFragment": {
+    "prefix": "cdf",
+    "body": "const ${1:varName} = document.createDocumentFragment();${0}",
+    "description": "Creates an element using document.createDocumentFragment"
   }
 }

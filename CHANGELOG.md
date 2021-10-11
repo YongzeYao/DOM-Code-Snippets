@@ -13,3 +13,7 @@ All notable changes to the "dom-code-snippets" extension will be documented in t
 ## [1.0.2]
 
 - Added **dce** for document.createElement
+
+## [1.0.3]
+
+- Added **cdf** shortcut for document.createDocumentFragment snippet
